@@ -1,4 +1,4 @@
-# Python Programming Tasks
+# Python Programming : Assignment 2 - Control Structures 
 
 ## Task 1: Even/Odd Number Checker
 - **Purpose**: Determines if a user-input number is even or odd
