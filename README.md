@@ -30,5 +30,3 @@ The content is organized into directories for each topic or library, with clear 
 - Build a strong foundation in core Python concepts
 - Gain practical experience by working on real-world projects
 - Document and share my progress for future reference and community support
-
-Feel free to use this repository as a reference, fork it for your own progress tracking, and join me on this continuous learning adventure!
